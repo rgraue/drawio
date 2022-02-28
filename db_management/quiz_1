@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T00:19:00.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="4hyWIzuWIudZQIKdoPVN" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T00:23:44.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VXllH2tQUYXPF_fGatbS" version="16.6.4" type="github">
   <diagram id="HtziFmvLBbIg2h1UX2t6" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -350,7 +350,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LbWxWrbA5qPBzRJP45Sa-94" value="TODO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="LbWxWrbA5qPBzRJP45Sa-91">
+        <mxCell id="LbWxWrbA5qPBzRJP45Sa-94" value="JSON*" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="LbWxWrbA5qPBzRJP45Sa-91">
           <mxGeometry x="180" width="70" height="30" as="geometry">
             <mxRectangle width="70" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -530,6 +530,9 @@
           <mxGeometry x="-0.8642" y="-3" relative="1" as="geometry">
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LbWxWrbA5qPBzRJP45Sa-138" value="*Identifies the horsepower for each motor. eg {0:6hp,1:4hp,2:6hp}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="360" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
